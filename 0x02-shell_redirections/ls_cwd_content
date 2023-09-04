@@ -1,0 +1,19 @@
+total 52
+drwxr-xr-x 2 root root 304 Sep  4 10:34 .
+drwxr-xr-x 6 root root 121 Sep  4 07:15 ..
+-rwxr--r-- 1 root root  32 Sep  4 07:19 0-hello_world
+-rwxr--r-- 1 root root   0 Sep  4 08:57 0-mac_and_cheese
+-rwxr--r-- 1 root root  28 Sep  4 07:29 1-confused_smiley
+-rwxr--r-- 1 root root  28 Sep  4 07:33 2-hellofile
+-rwxr--r-- 1 root root  39 Sep  4 07:37 3-twofiles
+-rwxr--r-- 1 root root  29 Sep  4 07:41 4-lastlines
+-rwxr--r-- 1 root root  29 Sep  4 07:44 5-firstlines
+-rwxr--r-- 1 root root  36 Sep  4 08:35 6-third_line
+-rwxr--r-- 1 root root  78 Sep  4 08:48 7-file
+-rwxr--r-- 1 root root  39 Sep  4 10:07 7-file~
+-rwxr--r-- 1 root root  37 Sep  4 10:34 8-cwd_state
+-rw-r--r-- 1 root root  76 Sep  4 10:10 \*\'Best
+-rw-r--r-- 1 root root 743 Sep  4 07:53 iacta
+-rw-r--r-- 1 root root   0 Sep  4 10:34 ls_cwd_content
+-rw-r--r-- 1 root root   0 Sep  4 09:00 Makefile
+-rw-r--r-- 1 root root  24 Sep  4 07:18 README.md
