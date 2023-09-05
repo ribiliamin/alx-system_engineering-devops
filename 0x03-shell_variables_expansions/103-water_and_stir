@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(tr -d . <<< "$WATER") + $(tr -d . <<< "$STIR")" | bc | tr 01234567 schtolc
+echo "$(tr -d . <<< "$WATER") + $(tr -d . <<< "$STIR")" | dc | tr 01234567 schtolc
